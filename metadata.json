@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Management System",
+  "description": "A comprehensive academic management system to track student records, subject marks, attendance, auto-calculate grades & GPA, and analyze performance with interactive charts and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
